@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "858111790614",
+    "project_id": "livmag-unikeza",
+    "storage_bucket": "livmag-unikeza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858111790614:android:b93e4d080e9b8f17176f37",
+        "android_client_info": {
+          "package_name": "com.example.livmag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858111790614-v8o3j6bgu61o8faqn0rv8pldmc2tu0p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livmag",
+            "certificate_hash": "51177c24003c317e3f021effdb3ead90ca8e4297"
+          }
+        },
+        {
+          "client_id": "858111790614-bdjlcm8fa33um0ljb35csr1geap4af2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuo84fcDEsxI5tOymJz7ft-MkTgHIXhKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858111790614-bdjlcm8fa33um0ljb35csr1geap4af2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
